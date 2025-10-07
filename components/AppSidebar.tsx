@@ -34,22 +34,22 @@ const items = [
     },
     {
         title: "Inbox",
-        url: '/inbox',
+        url: '/#',
         icon: <Inbox />,
     },
     {
         title: "Calendar",  // Fixed typo: 'Calender' → 'Calendar'
-        url: '/calendar',
+        url: '/#',
         icon: <Calendar />,
     },
     {
         title: "Search",
-        url: '/search',
+        url: '/#',
         icon: <Search />,
     },
     {
         title: "Settings",
-        url: '/settings',
+        url: '/#',
         icon: <Settings />,
     },
 ];
